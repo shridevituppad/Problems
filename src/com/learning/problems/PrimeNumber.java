@@ -13,7 +13,7 @@ public class PrimeNumber {
 		System.out.println("Enter the number:");
 		Integer number = new Scanner(System.in).nextInt();
 		System.out.println(isPrime(number));
-		System.out.println(isPrime(number)));
+		.println(isPrime(number)));
 		
 	}
 
